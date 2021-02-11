@@ -1,7 +1,7 @@
 # Rescources!
 
 
-##Unit 1 Code Examples
+## Unit 1 Code Examples
 
 [Skill 100: Diagonal Squares](https://editor.p5js.org/andytilia/sketches/NC9ZaDGRtY)
 
@@ -12,7 +12,7 @@
 [SKill 101: Coinflip Faceless Starter Code](https://www.google.com)
 
 
-##Unit 1 Info Vids
+## Unit 1 Info Vids
 
 [Skill 102: Color(Coding Train)](https://www.youtube.com/watch?v=riiJTF5-N7c)
 
