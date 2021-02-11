@@ -18,4 +18,4 @@
 
 [Skill 102: Display Image(Smith)](https://www.youtube.com/watch?v=8CQ2YW5Rmm4&feature=youtu.be)
 
-[Skill 103, Subskills A + B: Variables(Coding Train](https://www.google.com)
+[Skill 103, Subskills A + B: Variables(Coding Train)](https://www.google.com)
