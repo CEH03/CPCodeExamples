@@ -9,7 +9,7 @@
 
 [Skill 101: noFill and strokeWeight](https://editor.p5js.org/andytilia/sketches/jJWzYG7TZ)
 
-[SKill 101: Coinflip Faceless Starter Code](https://www.google.com)
+[SKill 101: Coinflip Faceless Starter Code](https://editor.p5js.org/andytilia/sketches/ticD1d3cp)
 
 
 ## Unit 1 Info Vids
