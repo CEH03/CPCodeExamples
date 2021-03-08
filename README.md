@@ -13,7 +13,8 @@
 
 
 ## Bouncy Logo Fixme
-[Fixme 1](https://editor.p5js.org/21heplca/sketches/9NwYRnTRJ)
+[Fixme 1](https://editor.p5js.org/21heplca/sketches/0JbvmbbFn)
+[Challenge Fixme!](https://editor.p5js.org/21heplca/sketches/9NwYRnTRJ)
 
 ## Unit 1 Info Vids
 
