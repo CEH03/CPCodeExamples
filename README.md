@@ -12,6 +12,9 @@
 [SKill 101: Coinflip Faceless Starter Code](https://editor.p5js.org/andytilia/sketches/ticD1d3cp)
 
 
+## Bouncy Logo Fixme
+[Fixme 1](https://editor.p5js.org/21heplca/sketches/9NwYRnTRJ)
+
 ## Unit 1 Info Vids
 
 [Skill 102: Color (Coding Train)](https://www.youtube.com/watch?v=riiJTF5-N7c)
@@ -23,3 +26,5 @@
 [Skill 103, Subskill C: Variables (Coding Train)](https://www.youtube.com/watch?v=Bn_B3T_Vbxs&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=9)
 
 [Skill 104: Conditional Statements (Coding Train)](https://www.youtube.com/watch?v=1Osb_iGDdjk&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=14)
+
+
