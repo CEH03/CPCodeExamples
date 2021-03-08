@@ -17,7 +17,7 @@
 
 [Fixme 2](https://editor.p5js.org/21heplca/sketches/t0dBb1ePG)
 
-[Fixme 3](https://editor.p5js.org/21heplca/sketches/hSPZcxdBx)
+[Fixme 3(AKA Challenge Fixme #2 :)](https://editor.p5js.org/21heplca/sketches/hSPZcxdBx)
 
 [Fixme 4](https://editor.p5js.org/21heplca/sketches/-srJbi_qn)
 
