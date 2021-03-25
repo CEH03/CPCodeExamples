@@ -35,4 +35,8 @@
 
 [Skill 104: Conditional Statements (Coding Train)](https://www.youtube.com/watch?v=1Osb_iGDdjk&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=14)
 
+## Unit 1 Code Examples
+
+[Skill 110: Objects](about:blank)
+
 
