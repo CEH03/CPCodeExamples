@@ -37,6 +37,9 @@
 
 ## Unit 1 Code Examples
 
-[Skill 110: Objects](about:blank)
+[Skill 110: Objects](https://editor.p5js.org/22brenli/sketches/0ilZcYzJgJ)
+[Skill 111: User Inputs](https://editor.p5js.org/andytilia/sketches/-lHyPeV_C)
+[Skill 111: User Inputs(2)](https://editor.p5js.org/andytilia/sketches/cgfJ2nA5k)
+
 
 
