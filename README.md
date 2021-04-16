@@ -1,4 +1,4 @@
-# Rescources!
+# Resources!
 
 
 ## Unit 2 Code Examples
