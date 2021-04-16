@@ -1,6 +1,15 @@
 # Rescources!
 
 
+## Unit 2 Code Examples
+
+[Skill 110: Objects](https://editor.p5js.org/22brenli/sketches/0ilZcYzJgJ)
+
+[Skill 111: User Inputs](https://editor.p5js.org/andytilia/sketches/-lHyPeV_C)
+
+[Skill 111: User Inputs(2)](https://editor.p5js.org/andytilia/sketches/cgfJ2nA5k)
+
+
 ## Unit 1 Code Examples
 
 [Skill 100: Diagonal Squares](https://editor.p5js.org/andytilia/sketches/NC9ZaDGRtY)
@@ -9,8 +18,19 @@
 
 [Skill 101: noFill and strokeWeight](https://editor.p5js.org/andytilia/sketches/jJWzYG7TZ)
 
-[SKill 101: Coinflip Faceless Starter Code](https://www.google.com)
+[SKill 101: Coinflip Faceless Starter Code](https://editor.p5js.org/andytilia/sketches/ticD1d3cp)
 
+
+## Bouncy Logo Fixme
+[Fixme 1](https://editor.p5js.org/21heplca/sketches/0JbvmbbFn)
+
+[Fixme 2](https://editor.p5js.org/21heplca/sketches/t0dBb1ePG)
+
+[Fixme 3(AKA Challenge Fixme #2 :)](https://editor.p5js.org/21heplca/sketches/hSPZcxdBx)
+
+[Fixme 4](https://editor.p5js.org/21heplca/sketches/-srJbi_qn)
+
+[Challenge Fixme!](https://editor.p5js.org/21heplca/sketches/9NwYRnTRJ)
 
 ## Unit 1 Info Vids
 
@@ -23,3 +43,8 @@
 [Skill 103, Subskill C: Variables (Coding Train)](https://www.youtube.com/watch?v=Bn_B3T_Vbxs&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=9)
 
 [Skill 104: Conditional Statements (Coding Train)](https://www.youtube.com/watch?v=1Osb_iGDdjk&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=14)
+
+
+
+
+
