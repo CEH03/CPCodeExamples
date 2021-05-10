@@ -1,6 +1,15 @@
 # Rescources!
 
 
+## Function Fixmes!
+[fixme 1](https://editor.p5js.org/21heplca/sketches/gU36umnw0)
+[fixme 2](https://editor.p5js.org/21heplca/sketches/Ast0U09G2)
+[fixme 3](https://editor.p5js.org/21heplca/sketches/57WYucJ3l)
+[fixme 4](https://editor.p5js.org/21heplca/sketches/AlfSGO5gp)
+
+
+
+
 ## Unit 2 Code Examples
 
 [Skill 110: Objects](https://editor.p5js.org/22brenli/sketches/0ilZcYzJgJ)
