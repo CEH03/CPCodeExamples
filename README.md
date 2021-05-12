@@ -1,4 +1,4 @@
-# Rescources!
+# Resources!
 
 
 ## Function Fixmes!
